@@ -2,15 +2,13 @@
 
 ----
 
-**Disclaimer**: Tutto ciò che è scritto in questo documento è una mia personale interpretazione delle dinamiche di governance e mercato. E' possibile che ci siano errori di vario genere e opinioni poco condivisibili.
+**Disclaimer**: Tutto ciò che è scritto in questo documento è una mia personale interpretazione. E' possibile che ci siano errori di vario genere e opinioni poco condivisibili.
 
 *Questo documento lo scrivo come supporto per comprendere meglio le scelte nel mio modello di governance al seguente percorso: `./my_own_model.md`.*
 
 *Si consiglia anche la lettura, come estensione, del documento al seguente percorso: `./politics_is_personality.md`.*
 
 ----
-
-# I modelli popolari
 
 In questo documento voglio illustrare la mia interpretazione dei modelli teorici più popolari di governance (in ordine di decentralizzazione):
 * Anarchia

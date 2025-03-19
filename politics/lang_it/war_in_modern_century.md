@@ -4,7 +4,6 @@
 
 **Disclaimer**: Tutto ciò che è scritto in questo documento è una mia personale interpretazione. E' possibile che ci siano errori di vario genere e opinioni poco condivisibili.
 
-*E' di fondamentale importanza la lettura di un altro documento prima, al seguente percorso: `./the_popular_models.md`.*
-
 ----
 
+TODO: parlare di minacce economiche, proxy state, media manipulation, ...

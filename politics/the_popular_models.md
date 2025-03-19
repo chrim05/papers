@@ -4,15 +4,13 @@
 
 ------
 
-**Disclaimer**: Everything written in this document is my personal interpretation of governance and market dynamics.  There may be errors of various kinds and opinions that are not widely shared.
+**Disclaimer**: Everything written in this document is a personal interpretation. There may be errors of various kinds and opinions that are not widely shared.
 
 *I am writing this document as a support to better understand the choices in my governance model at the following path: `./my_own_model.md`.*
 
 *It is also recommended to read, as an extension, the document at the following path: `./politics_is_personality.md`.*
 
 ----
-
-# Popular Models
 
 In this document, I want to illustrate my interpretation of the most popular theoretical models of governance (in order of decentralization):
 * Anarchy
