@@ -125,7 +125,7 @@ Altri modelli sono meno sensibili alla scalabilità, ma anche questi, a certi li
     * Possibili violazioni dei diritti umani, senza certe conseguenze
 
 * Capitalismo (moderato):
-    * Elitarismo: un gruppo di persone (elitè) manovra le masse per mezzo dei loro patrimoni generazionali
+    * Elitarismo: un gruppo di persone (elitè) manovra le masse per mezzo dei loro patrimoni, le lobbie e l'endorsment sono pura corruzione anche se con una faccia diversa
 
 * Comunismo (puro):
     * Impossibilità pratica nel garantire che ognuno davvero contribuisca al suo meglio e davvero prenda solo ciò che gli serve, è necessaria una mentalità adeguata

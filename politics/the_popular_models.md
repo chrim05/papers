@@ -126,7 +126,7 @@ Other models are less sensitive to scalability, but even these, at certain level
     * Possible human rights violations, without certain consequences.
 
 * Capitalism (moderate):
-    * Elitism: a group of people (elite) maneuvers the masses by means of their generational wealth.
+    * Elitism: a group of people (elite) maneuvers the masses by means of their wealth, lobbies and ensorsment are pure corruption even if it's packaged differently.
 
 * Communism (pure):
     * Practical impossibility in ensuring that everyone really contributes their best and really takes only what they need, an adequate mentality is necessary.
