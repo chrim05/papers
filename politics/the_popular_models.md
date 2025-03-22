@@ -1,7 +1,5 @@
 *This paper is licensed by the license file in the following path: `/LICENSE`*
 
-*This document is an ai-generated english translation of the original document in the following path: `./lang_it/the_popular_models.md`*
-
 ------
 
 **Disclaimer**: Everything written in this document is a personal interpretation. There may be errors of various kinds and opinions that are not widely shared.

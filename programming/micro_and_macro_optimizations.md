@@ -1,7 +1,5 @@
 *This paper is licensed by the license file in the following path: `/LICENSE`*
 
-*This document is an ai-generated english translation of the original document in the following path: `./lang_it/micro_and_macro_optimizations.md`*
-
 ------
 
 During software development, sooner or later, we encounter the need to optimize our code in order to speed up its execution time and reduce its memory consumption.
