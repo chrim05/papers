@@ -22,9 +22,9 @@ Further combined with the following models of social interaction:
 * Competition
 * Cooperation
 
-And further combined with the following selection models:
+And finally combined with the following selection models:
 * Democracy
-* Natural
+* Natural S.
 
 ----
 
