@@ -43,12 +43,16 @@ I get the impression that politics today is merely a large stage where the best 
 Furthermore, the problem of **False Representativeness** of elected parties often arises: many parties, after winning elections, start making decisions that contradict their campaign promises or new decisions that were never mentioned at all.
 
 One idea to solve both problems is as follows: every party must publish a **Legal Executive Document** (LED), which serves as a list of actions the party can undertake freely after winning the election, with full executive power. So, a kind of party program with legal value.
-The Executor has executive power over everything mentioned in the LED.
+The Executor has legitimate executive and legislative power over everything mentioned in the LED.
 Any other decision not mentioned in the LED must be made through a **Quick Referendum** (QR, read below).
 
 I have renamed the figure of the Premier to "Executor" purely for conceptual clarity (Premier is a term with ideologies too tied to the current method of democracy, which I personally dislike, and I need a new term that appears more authoritarian, yet in a completely legitimate way and restricted within extremely democratic limits).
 
-The LED could potentially be subject to some limits (such as the requirement of Constitutionality of its content or adherence to a simple and minimal communication format), although the idea of imposing a constitutionality requirement doesn't personally inspire me much, considering it would still be the people themselves deciding in the first place. Why not allow a LED containing unconstitutional items if the people have democratically accepted them anyway?
+Parliament might become obsolete, replaced by a smaller, judicial-like public body tasked with processing all executive and legislative actions carried out by the Executor, receiving and assessing complaints against the Executor, and handling other management activities both with and against the Executor.
+The members of this group could be selected randomly or in other decentralized ways (QR again for example) at the beginning of every **Executive Term**, to avoid nepotism or other forms of corruption..
+Members must have legal qualifications.
+
+The LED could potentially be subject to some limits (well written in the **LED Constraints**) (such as the requirement of Constitutionality of its content or adherence to a simple and minimal communication format), although the idea of imposing a constitutionality requirement doesn't personally inspire me much, considering it would still be the people themselves deciding in the first place. Why not allow a LED containing unconstitutional items if the people have democratically accepted them anyway?
 
 The Executor in power could, with the help of the people (via QR), prosecute high-importance public roles (judges, public prosecutors, etc.) to end internal corruption or phenomena like Insider Trading and related issues that are often inevitable when high-importance public roles are not appropriately controlled.
 
