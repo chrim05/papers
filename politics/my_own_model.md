@@ -24,7 +24,7 @@ As described in the document `./the_popular_models.md`, here are some of the maj
 
 ----
 
-**Desired Market Model:**
+**Desired changes to current Market Model:**
 
 The basic idea is to reduce the Welfare State to its bare minimum, which would allow for significantly lower taxes on businesses and the removal of taxes for freelancers below a certain annual income threshold, potentially yielding several advantages:
 
@@ -36,22 +36,22 @@ The basic idea is to reduce the Welfare State to its bare minimum, which would a
 
 ----
 
-**Desired Governance Model:**
+**Desired changes to current Governance Model:**
 
 I get the impression that politics today is merely a large stage where the best orator wins the country, while the most competent struggle to emerge.
 
 Furthermore, the problem of **False Representativeness** of elected parties often arises: many parties, after winning elections, start making decisions that contradict their campaign promises or new decisions that were never mentioned at all.
 
-One idea to solve both problems is as follows: every party must publish a **Legal Sovereignty Document**, which serves as a list of actions the party can undertake freely after winning the election, with full executive power. So, a kind of party program with legal value.
-The Sovereign has executive power over everything mentioned in the Sovereignty Document.
-Any other decision not mentioned in the document must be made through a **public Referendum**.
+One idea to solve both problems is as follows: every party must publish a **Legal Executive Document** (LED), which serves as a list of actions the party can undertake freely after winning the election, with full executive power. So, a kind of party program with legal value.
+The Executor has executive power over everything mentioned in the LED.
+Any other decision not mentioned in the LED must be made through a **Quick Referendum** (QR, read below).
 
-I have renamed the figure of the Premier to "Sovereign" purely for conceptual clarity (Premier is a term with ideologies too tied to the current method of democracy, which I personally dislike, and I need a new term that appears more authoritarian, yet in a completely legitimate way and restricted within extremely democratic limits).
+I have renamed the figure of the Premier to "Executor" purely for conceptual clarity (Premier is a term with ideologies too tied to the current method of democracy, which I personally dislike, and I need a new term that appears more authoritarian, yet in a completely legitimate way and restricted within extremely democratic limits).
 
-The Sovereignty Document could potentially be subject to some limits (such as the requirement of Constitutionality of its content or adherence to a simple and minimal communication format), although the idea of imposing a constitutionality requirement doesn't personally inspire me much, considering it would still be the people themselves deciding in the first place. Why not allow a document containing unconstitutional items if the people have democratically accepted them anyway?
+The LED could potentially be subject to some limits (such as the requirement of Constitutionality of its content or adherence to a simple and minimal communication format), although the idea of imposing a constitutionality requirement doesn't personally inspire me much, considering it would still be the people themselves deciding in the first place. Why not allow a LED containing unconstitutional items if the people have democratically accepted them anyway?
 
-The Sovereign in power could, with the help of the people (Referendum), prosecute high-importance public roles (judges, public prosecutors, etc.) to end internal corruption or phenomena like Insider Trading and related issues that are often inevitable when high-importance public roles are not appropriately controlled.
+The Executor in power could, with the help of the people (via QR), prosecute high-importance public roles (judges, public prosecutors, etc.) to end internal corruption or phenomena like Insider Trading and related issues that are often inevitable when high-importance public roles are not appropriately controlled.
 
-Furthermore, it is fundamentally important to **digitally decentralize** voting: Referendums and party votes should be digitally decentralized (Blockchain) to prevent any kind of interference or cover-up (events that are not entirely impossible, as mentioned earlier).
+Furthermore, it is fundamentally important to **digitally decentralize** QRs via simil-Blockchain technology to prevent any kind of interference or cover-up and speed up decision-making process.
 
 A substantial reduction in bureaucracy would be another important step for today's governments.
